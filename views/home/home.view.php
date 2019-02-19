@@ -2,7 +2,7 @@
 <html>
     <body>
         <table id="table" align="left" border="1" cellpadding="3" cellspacing="0">
-            <!--Pravljenje tabele kroz foreach petlje-->
+            <!--Pravljenje tabele kroz for petlje-->
             <?php
             for ($i = 0; $i <= 10; $i++) {
                 echo "<tr>";
